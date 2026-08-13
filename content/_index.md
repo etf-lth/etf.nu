@@ -22,7 +22,7 @@ ElektroTekniska Föreningen vid LTH är ett hackerspace / makerspace för alla i
 {{< /column >}}
 {{< column >}}
 {{< spacer >}}
-{{< fpimg src="drone.jpg" loading="eager" >}}
+{{< fpimg src="content/2026/07/drone.jpg" loading="eager" >}}
 {{< /column >}}
 {{< /columns >}}
 
@@ -33,17 +33,17 @@ ElektroTekniska Föreningen vid LTH är ett hackerspace / makerspace för alla i
 
 {{< columns count=3 >}}
 {{< column >}}
-{{< fpimg src="hårdvara.jpg" loading="eager" >}}
+{{< fpimg src="content/2026/07/hårdvara.jpg" loading="eager" >}}
 ### Hårdvara
 Bygg eller förså hårdvara, vi kan hjälpa dig med att löda, cadda, eller till och med skapa egna kretskort
 {{< /column >}}
 {{< column >}}
-{{< fpimg src="mek.png" loading="eager" >}}
+{{< fpimg src="content/2026/07/mek.png" loading="eager" >}}
 ### Verkstad
 I vår verkstad så har vi bland annat en svarv, CNC-maskin och dragskåp, här kan du göra diverse roliga projekt!
 {{< /column >}}
 {{< column >}}
-{{< fpimg src="nördar.jpg" loading="eager" >}}
+{{< fpimg src="content/2026/07/nördar.jpg" loading="eager" >}}
 ### Mjukvara
 All mjukvara som krävs för att uppnå nördstatus finns att hitta i ETFs lokaler, och sannolikt tillhörande nördar
 {{< /column >}}
@@ -55,9 +55,9 @@ All mjukvara som krävs för att uppnå nördstatus finns att hitta i ETFs lokal
 #### Discord
 **Snackeställe utanför lokalerna.**
 
-Vi använder Discord för att kommunicera med andra medlemmar, kom och snacka eller visa upp dina projekt. Oftast snabbaste sättet att få svar ifall man har frågor
+Vi använder Discord för att kommunicera med andra medlemmar, kom och snacka eller visa upp dina projekt. Snabbaste sättet att få svar ifall man har frågor
 {{< spacer 5 >}}
-{{< button link="/demo-page" text="Gå med i vår Discord" >}}
+{{< button link="/discord" text="Gå med i vår Discord" >}}
 {{< /card >}}
 {{< card >}}
 #### Bli Medlem
@@ -73,7 +73,10 @@ Du får full tillgång till ETF och alla dess förmåner; tillgång till lokaler
 
 Sugen på att lära dig att löda? Blinkmojten är ett nybörjarvänligt lödprojekt för att lära dig hur man använder en lödkolv samt programmera en liten SoC
 {{< spacer 5 >}}
-{{< button link="/blog" text="Läs mer" >}}
+{{< button link="/blinkmojt2025" text="Läs mer" >}}
 {{< /card >}}
 {{< /cards >}}
 {{< spacer 20 >}}
+
+### Vad gör vi på byggkvällarna?
+{{< latest-blog >}}

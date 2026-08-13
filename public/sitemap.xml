@@ -2,11 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://etf.nu/blog/</loc>
+    <lastmod>2026-08-11T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://etf.nu/blog/2026-08-11/</loc>
+    <lastmod>2026-08-11T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://etf.nu/</loc>
+    <lastmod>2026-08-11T00:00:00+02:00</lastmod>
+  </url><url>
     <loc>https://etf.nu/bli-medlem/</loc>
+  </url><url>
+    <loc>https://etf.nu/blinkmojt2025/</loc>
   </url><url>
     <loc>https://etf.nu/categories/</loc>
   </url><url>
-    <loc>https://etf.nu/</loc>
+    <loc>https://etf.nu/kontakt/</loc>
   </url><url>
     <loc>https://etf.nu/om-oss/</loc>
   </url><url>

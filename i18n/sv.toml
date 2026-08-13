@@ -1,0 +1,39 @@
+breadcrumb_home = "Hem"
+social_link_title = "Sociala medier"
+by = "av"
+
+[january]
+other = "januari"
+
+[february]
+other = "februari"
+
+[march]
+other = "mars"
+
+[april]
+other = "april"
+
+[may]
+other = "maj"
+
+[june]
+other = "juni"
+
+[july]
+other = "juli"
+
+[august]
+other = "augusti"
+
+[september]
+other = "september"
+
+[october]
+other = "oktober"
+
+[november]
+other = "november"
+
+[december]
+other = "december"

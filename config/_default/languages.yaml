@@ -1,8 +1,9 @@
-en:
+sv:
   languageName: Swedish
+  languageCode: sv-SE
   weight: 1
   ### copyright (markdown can be used) ###
-  copyright: "Copyright &copy; 1964-{{< current_year >}} ElektroTekniska Föreningen vid Lunds Tekniska Högskola. All Rights Reserved. [Dot Org Theme](https://github.com/cncf/dot-org-hugo-theme) for Hugo by [CNCF](https://www.cncf.io)."
+  copyright: "<b>Org-nr:</b> 802440-2706 <br> Copyright &copy; 1964-{{< current_year >}} ElektroTekniska Föreningen vid Lunds Tekniska Högskola. All Rights Reserved. <br> [Dot Org Theme](https://github.com/cncf/dot-org-hugo-theme) for Hugo by [CNCF](https://www.cncf.io)."
   title: "ETF"
   params:
     description: "ElektroTekniska Föreningen vid Lunds Tekniska Högskola"
@@ -44,13 +45,17 @@ en:
     #   weight: 3
     #   post: "Lorem ipsum dolor sit amet consectetuer adipiscing elit aenean commodo."
     #   parent: "about"
-    - identifier: "demo-page"
+    - identifier: "om-oss"
       name: "Om oss"
       url: "/om-oss/"
-      weight: 2
-    - identifier: "faq"
+      weight: 1
+    - identifier: "kontakt"
       name: "Kontakt"
       url: "/kontakt/"
+      weight: 2
+    - identifier: "dokument"
+      name: "Dokument"
+      url: "https://files.etf.nu/dokument"
       weight: 3
     # - identifier: "blog"
     #   name: "Blog"

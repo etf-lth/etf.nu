@@ -1,0 +1,29 @@
+{{ define "main" }}
+
+  {{ .Content }}
+<!-- 
+  {{ $blog := site.GetPage "blog" }}
+
+  <div class="blog-grid">
+    {{ range first 3 $blog.Pages.ByDate.Reverse }}
+      <article class="blog-card">
+
+        <h2 class="blog-card__title">
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        </h2>
+
+        {{ partial "blog/byline.html" . }}
+
+        <p class="blog-card__summary">
+          {{ .Summary | plainify }}
+        </p>
+
+        <a class="blog-card__read-more" href="{{ .RelPermalink }}">
+          Read more →
+        </a>
+
+      </article>
+    {{ end }}
+  </div> -->
+
+{{ end }}

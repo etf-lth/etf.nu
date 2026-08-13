@@ -2,7 +2,7 @@
 
 # Add custom assets relative to /static or via https
 logo_on_white: "/img/ETF-logga-2026.svg"
-logo_on_black: ""
+logo_on_black: "/favicon.svg"
 custom_js: []
 custom_css: ['css/custom.css']
 

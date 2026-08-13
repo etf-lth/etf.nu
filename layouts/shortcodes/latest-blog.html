@@ -1,0 +1,26 @@
+{{- $blog := .Site.GetPage "blog" -}}
+{{- $columns := 3 -}}
+
+{{- if $blog -}}
+<div class="cards columns-{{ $columns }}">
+  {{- range first 3 $blog.Pages.ByDate.Reverse -}}
+    <div class="card">
+
+      <h3>
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      </h3>
+
+      <p>
+        <strong>{{ .Date | time.Format ":date_long" }}</strong>
+      </p>
+
+      <p>{{ .Summary | plainify | truncate 100 }}</p>
+
+      <p>
+        <a href="{{ .RelPermalink }}">Läs mer →</a>
+      </p>
+
+    </div>
+  {{- end -}}
+</div>
+{{- end -}}
