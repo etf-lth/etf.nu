@@ -14,18 +14,17 @@ showHeader: false
 ElektroTekniska Föreningen vid LTH är ett hackerspace / makerspace för alla intresserade studenter. Inga förkunskaper krävs. Önskar du att jobba på ett projekt är detta platsen för dig.
 
 # Välkommen till
-
-{{< intro >}}
-
-{{< /intro >}}
-
 {{< /column >}}
+
 {{< column >}}
 {{< spacer >}}
 {{< fpimg src="content/2026/07/drone.jpg" loading="eager" >}}
 {{< /column >}}
+
 {{< /columns >}}
 
+> **Aktuellt HT26** <br>
+> Byggkvällar på ETF varje tisdag kl 17:30-sent, kom förbi och hälsa på!
 
 
 
