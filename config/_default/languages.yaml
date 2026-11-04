@@ -55,7 +55,7 @@ sv:
       weight: 2
     - identifier: "dokument"
       name: "Dokument"
-      url: "https://files.etf.nu/dokument"
+      url: "https://docs.etf.nu"
       weight: 3
     # - identifier: "blog"
     #   name: "Blog"
